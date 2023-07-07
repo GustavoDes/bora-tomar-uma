@@ -1,0 +1,28 @@
+
+
+.body {
+    max-width: 768px;
+    max-height: 1366px;
+}
+
+.video-btu {
+    position: flex;
+    top: 0;
+    left: 0;
+
+}
+.video-btu .video {
+    align-items: center;
+    width: 100vw;
+    height: calc(100vh - 110px)
+}
+
+.download {
+    max-width: 1300px;
+    max-height: 25px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+
+}
